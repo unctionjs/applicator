@@ -1,7 +1,7 @@
 /* eslint-disable flowtype/require-parameter-type, flowtype/require-return-type, no-magic-numbers */
 import {test} from "tap"
 
-import appendM from "./source"
+import applicator from "./source"
 
 test(({same, end}) => {
   same(
