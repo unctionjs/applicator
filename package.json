@@ -1,6 +1,6 @@
 {
   "name": "@unction/applicator",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Takes a function and a value and applies that function to that value",
   "keywords": [
     "unction",
