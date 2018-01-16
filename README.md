@@ -5,7 +5,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> (ValueType -> any) -> any
+> (ValueType => any) => any
 
 Takes a function and a value and applies that function to that value.
 
