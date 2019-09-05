@@ -4,7 +4,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> UnaryFunctionType => ValueType
+> ((A) => B) => A => B
 
 Takes a function and a value and applies that function to that value.
 
